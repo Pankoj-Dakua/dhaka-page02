@@ -99,9 +99,9 @@
     
     
 }
-#check:checked ~ ul{
+/* #check:checked ~ ul{
     left: 0;
-}
+} */
 
     
 /* Start subnavbar-1 */

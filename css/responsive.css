@@ -121,19 +121,19 @@ width: 100%;
 }
 }
 #checkbtn{
-        float: right;
-        line-height: 80px;
-        margin-right: 10px;
-        font-size: 30px;
-        color: white;
-        display: none;
-    }
-    #check{
-        display: none;
-    }
-    #check:checked ~ ul{
-        left: 0px;
-    }
+    float: right;
+    line-height: 80px;
+    margin-right: 10px;
+    font-size: 30px;
+    color: white;
+    display: none;
+}
+#check{
+    display: none;
+}
+#check:checked ~ ul{
+    left: 0px;
+}
 
 
 /* RESPONSIVE */ 

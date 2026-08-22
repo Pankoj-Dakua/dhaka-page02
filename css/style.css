@@ -98,15 +98,15 @@ body,html {
 .top-container-first{
     height: auto;
     grid-column: 2 / 12;
-    /* border: 5px solid var(--color-secondary); */
+    border: 5px solid var(--color-secondary);
     background-color: #fafafa;
-    /* background-image: url("/image/inage_21.jpg"); */
+    background-image: url("../image/inage_21.jpg");
     width: 100%;
     height: 100vh;
-    /* background-size: cover; */
-    /* background-repeat: no-repeat; */
-    /* background-position: center center; */ */
-    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    /* position: relative; */
     /* z-index: -1; */
 }
 
